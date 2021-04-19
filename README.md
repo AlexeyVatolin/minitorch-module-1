@@ -19,3 +19,8 @@ cp ../Module-0/operators.py ../Module-0/module.py minitorch/
 python run_tests.py
 ```
 
+
+Epoch  490  loss  0.11547283681102632 correct 50
+Epoch  490  loss  11.04439123802928 correct 46
+
+
